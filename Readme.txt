@@ -2,7 +2,7 @@ How to run this script
 
 1.Download the zip file
 
-2.Extract the file and copy "php-mysqli-crud" folder
+2.Extract the file and copy "php-crud" folder
 
 3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
 
@@ -12,4 +12,4 @@ How to run this script
 
 6.Import phpcrud.sql file(given inside the zip package in SQL file folder)
 
-7.Run the script http://localhost/php-mysqli-crud
+7.Run the script http://localhost/php-crud
